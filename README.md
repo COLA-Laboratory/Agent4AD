@@ -12,6 +12,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 6. Cemri, Mert, et al. AdaEvolve: Adaptive LLM Driven Zeroth-Order Optimization. **arXiv 2026** [[Paper](https://arxiv.org/abs/2602.20133)] [[Code](https://github.com/skydiscover-ai/skydiscover)]
 7. Zhang, Rui, et al. Rethinking Code Similarity for Automated Algorithm Design with LLMs. **ICLR 2026** [[Paper](https://arxiv.org/pdf/2603.02787)] [[Code](https://github.com/RayZhhh/behavesim)]
 8. Li, Zun, et al. Discovering Multiagent Learning Algorithms with Large Language Models. **arXiv 2026** [[Paper](https://arxiv.org/abs/2602.16928)]
+9. Xu, Zhenxing, et al. AutoEP: LLMs-Driven Automation of Hyperparameter Evolution for Metaheuristic Algorithms. **ICLR 2026 Oral**. [[Paper](https://openreview.net/pdf?id=hit3hGBheP)] [[Code](https://github.com/YiZheZhang12/AutoEP?utm_source=chatgpt.com)]
 
 ### 📅 2025
 
@@ -22,6 +23,9 @@ A curated list of research papers on using Large Language Models/Agents for auto
 5. Van Stein, Niki, et al. Llamea: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics. **TEVC 2025** [[Paper](https://arxiv.org/abs/2405.20132)] [[Code](https://github.com/XAI-liacs/LLaMEA)]
 6. Novikov, Alexander, et al. AlphaEvolve: A Coding Agent for Scientific and Algorithmic Discovery. **arXiv 2025** [[Paper](https://arxiv.org/abs/2506.13131)] [[Code](https://github.com/google-deepmind/alphaevolve_results)] [[Code](https://github.com/algorithmicsuperintelligence/openevolve)]
 7. Lange, Robert Tjarko, et al. ShinkaEvolve: Towards Open-Ended and Sample-Efficient Program Evolution. **arXiv 2025** [[Paper](https://arxiv.org/abs/2509.19349)] [[Code](https://github.com/SakanaAI/ShinkaEvolve)]
+8. Liu, Haoyang, et al. OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling. **NeurIPS 2025** [[Paper](https://arxiv.org/pdf/2510.22192)] [[Code](https://github.com/MIRALab-USTC/OptiTree?utm_source=chatgpt.com)]
+9. Chen, Yitian, et al. Solver-Informed Reinforcement Learning for Optimization Modeling. 2025 [[Paper](https://arxiv.org/pdf/2505.11792)] [[Code](https://github.com/Cardinal-Operations/SIRL?utm_source=chatgpt.com)]
+10. Jiang, Caigao, et al. LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch. **ICLR 2025 Poster** [[Paper](https://openreview.net/pdf?id=9OMvtboTJg)] [[Code](https://github.com/antgroup/LLMOPT)]
 
 ### 📅 2024
 
