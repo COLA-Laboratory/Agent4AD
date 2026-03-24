@@ -10,7 +10,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 4. Agrawal, Lakshya A., et al. GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning. **ICLR 2026** [[Paper](https://arxiv.org/abs/2507.19457)] [[Code](https://github.com/gepa-ai/gepa)]
 5. Liu, Shu, et al. EvoX: Meta-Evolution for Automated Discovery. **arXiv 2026** [[Paper](https://arxiv.org/abs/2602.23413)] [[Code](https://github.com/skydiscover-ai/skydiscover)]
 6. Cemri, Mert, et al. AdaEvolve: Adaptive LLM Driven Zeroth-Order Optimization. **arXiv 2026** [[Paper](https://arxiv.org/abs/2602.20133)] [[Code](https://github.com/skydiscover-ai/skydiscover)]
-7. Zhang, Rui, et al. Rethinking Code Similarity for Automated Algorithm Design with LLMs. **ICLR 2026** [[Paper](https://arxiv.org/pdf/2603.02787) [Code](https://github.com/RayZhhh/behavesim)]
+7. Zhang, Rui, et al. Rethinking Code Similarity for Automated Algorithm Design with LLMs. **ICLR 2026** [[Paper](https://arxiv.org/pdf/2603.02787)] [[Code](https://github.com/RayZhhh/behavesim)]
 8. Li, Zun, et al. Discovering Multiagent Learning Algorithms with Large Language Models. **arXiv 2026** [[Paper](https://arxiv.org/abs/2602.16928)]
 
 ### 📅 2025
