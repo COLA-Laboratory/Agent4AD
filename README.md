@@ -33,3 +33,6 @@ A curated list of research papers on using Large Language Models/Agents for auto
 2. Romera-Paredes, Bernardino, et al. Mathematical Discoveries from Program Search with Large Language Models. **Nature 2024** [[Paper](https://www.nature.com/articles/s41586-023-06924-6)] [[Code](https://github.com/google-deepmind/funsearch)]
 3. Zhang, Rui, et al. Understanding the Importance of Evolutionary Search in Automated Heuristic Design with Large Language Models. **PPSN 2024** [[Paper](https://arxiv.org/abs/2407.10873)] [[Code](https://github.com/zhichao-lu/llm-eps)]
 4. Ye, Haoran, et al. ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution. **NeurIPS 2024** [[Paper](https://arxiv.org/abs/2402.01145)] [[Code](https://github.com/ai4co/reevo)]
+
+# LLM4CO
+https://github.com/ai4co/awesome-fm4co
