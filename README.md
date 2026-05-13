@@ -12,7 +12,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 6. Cemri, Mert, et al. AdaEvolve: Adaptive LLM Driven Zeroth-Order Optimization. **arXiv 2026** [[Paper](https://arxiv.org/abs/2602.20133)] [[Code](https://github.com/skydiscover-ai/skydiscover)]
 7. Zhang, Rui, et al. Rethinking Code Similarity for Automated Algorithm Design with LLMs. **ICLR 2026** [[Paper](https://arxiv.org/pdf/2603.02787)] [[Code](https://github.com/RayZhhh/behavesim)]
 8. Li, Zun, et al. Discovering Multiagent Learning Algorithms with Large Language Models. **arXiv 2026** [[Paper](https://arxiv.org/abs/2602.16928)]
-9. Xu, Zhenxing, et al. AutoEP: LLMs-Driven Automation of Hyperparameter Evolution for Metaheuristic Algorithms. **ICLR 2026 Oral** [[Paper](https://openreview.net/pdf?id=hit3hGBheP)] [[Code](https://github.com/YiZheZhang12/AutoEP?utm_source=chatgpt.com)]
+9. Xu, Zhenxing, et al. AutoEP: LLMs-Driven Automation of Hyperparameter Evolution for Metaheuristic Algorithms. **ICLR 2026** `Oral` [[Paper](https://openreview.net/pdf?id=hit3hGBheP)] [[Code](https://github.com/YiZheZhang12/AutoEP?utm_source=chatgpt.com)]
 10. Zhao, Zhe, et al. Fusing LLMs with Scientific Literature for Heuristic Discovery. **ICLR 2026** `Rejected` [[Paper](https://openreview.net/forum?id=lwqeXDYKWJ)]
 
 ### 📅 2025
