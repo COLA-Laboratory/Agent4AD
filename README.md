@@ -37,6 +37,4 @@ A curated list of research papers on using Large Language Models/Agents for auto
 
 ### 📚 Related Resources
 
-A collection of curated repositories on LLM/Agent for optimization and algorithm design.
-
 1. [LLM4CO](https://github.com/ai4co/awesome-fm4co) - A curated list of foundation models for combinatorial optimization.
