@@ -26,7 +26,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 7. Lange, Robert Tjarko, et al. ShinkaEvolve: Towards Open-Ended and Sample-Efficient Program Evolution. **arXiv 2025** [[Paper](https://arxiv.org/abs/2509.19349)] [[Code](https://github.com/SakanaAI/ShinkaEvolve)]
 8. Liu, Haoyang, et al. OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling. **NeurIPS 2025** [[Paper](https://arxiv.org/pdf/2510.22192)] [[Code](https://github.com/MIRALab-USTC/OptiTree?utm_source=chatgpt.com)]
 9. Chen, Yitian, et al. Solver-Informed Reinforcement Learning for Optimization Modeling. 2025 [[Paper](https://arxiv.org/pdf/2505.11792)] [[Code](https://github.com/Cardinal-Operations/SIRL?utm_source=chatgpt.com)]
-10. Jiang, Caigao, et al. LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch. **ICLR 2025 Poster** [[Paper](https://openreview.net/pdf?id=9OMvtboTJg)] [[Code](https://github.com/antgroup/LLMOPT)]
+10. Jiang, Caigao, et al. LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch. **ICLR 2025** [[Paper](https://openreview.net/pdf?id=9OMvtboTJg)] [[Code](https://github.com/antgroup/LLMOPT)]
 
 ### 📅 2024
 
