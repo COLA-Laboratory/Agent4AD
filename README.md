@@ -2,8 +2,7 @@
 
 A curated list of research papers on using Large Language Models/Agents for autonomous scientific discovery, covering automated algorithm design and physics-informed neural network (PINN) design.
 
-<details>
-<summary><h2>🤖 Agent for Algorithm Design</h2></summary>
+## 🤖 Agent for Algorithm Design
 
 ### 📅 2026
 
@@ -39,20 +38,12 @@ A curated list of research papers on using Large Language Models/Agents for auto
 3. Zhang, Rui, et al. Understanding the Importance of Evolutionary Search in Automated Heuristic Design with Large Language Models. **PPSN 2024** [[Paper](https://arxiv.org/abs/2407.10873)] [[Code](https://github.com/zhichao-lu/llm-eps)]
 4. Ye, Haoran, et al. ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution. **NeurIPS 2024** [[Paper](https://arxiv.org/abs/2402.01145)] [[Code](https://github.com/ai4co/reevo)]
 
-</details>
-
-<details>
-<summary><h2>🔬 Agent for PINN Design</h2></summary>
+## 🔬 Agent for PINN Design
 
 ### 📅 2026
 
 1. Toscano, Juan Diego, et al. GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms. **arXiv 2026** [[Paper](https://arxiv.org/abs/2605.11117)]
 
-</details>
-
-<details>
-<summary><h2>📚 Related Resources</h2></summary>
+## 📚 Related Resources
 
 1. [LLM4CO](https://github.com/ai4co/awesome-fm4co) - A curated list of foundation models for combinatorial optimization.
-
-</details>
