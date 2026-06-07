@@ -4,8 +4,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 
 ## 🤖 Agent for Algorithm Design
 
-<details open>
-<summary><h3>📅 2026 ▾</h3></summary>
+### 📅 2026
 
 1. Liu, Fei, et al. A Systematic Survey on Large Language Models for Algorithm Design. **ACM Computing Surveys 2026** `Survey` [[Paper](https://arxiv.org/abs/2410.14716)] [[Code](https://github.com/FeiLiu36/LLM4AlgorithmDesign)]
 2. Liu, Fei, et al. EoH-S: Evolution of Heuristic Set Using LLMs for Automated Heuristic Design. **AAAI 2026** [[Paper](https://arxiv.org/abs/2508.03082)] [[Code](https://github.com/FeiLiu36/EoH-S)]
@@ -20,10 +19,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 11. Yang, S, et al. End-to-end Autonomous Scientific Discovery on a Real Optical Platform. **arXiv 2026** [[Paper](https://arxiv.org/abs/2604.27092)]
 12. Qu, Ao, et al. CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery. **arXiv 2026** [[Paper](https://arxiv.org/abs/2604.01658)] [[Code](https://github.com/Human-Agent-Society/CORAL)]
 
-</details>
-
-<details open>
-<summary><h3>📅 2025 ▾</h3></summary>
+### 📅 2025
 
 1. Yao, Shunyu, et al. Multi-Objective Evolution of Heuristic Using Large Language Model. **AAAI 2025** [[Paper](https://arxiv.org/abs/2409.16867)] [[Code](https://github.com/Optima-CityU/LLM4AD)]
 2. Zheng, Zhi, et al. Monte Carlo Tree Search for Comprehensive Exploration in LLM-based Automatic Heuristic Design. **ICML 2025** [[Paper](https://arxiv.org/abs/2501.08603)] [[Code](https://github.com/zz1358m/MCTS-AHD-master)]
@@ -36,27 +32,19 @@ A curated list of research papers on using Large Language Models/Agents for auto
 9. Chen, Yitian, et al. Solver-Informed Reinforcement Learning for Optimization Modeling. 2025 [[Paper](https://arxiv.org/pdf/2505.11792)] [[Code](https://github.com/Cardinal-Operations/SIRL?utm_source=chatgpt.com)]
 10. Jiang, Caigao, et al. LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch. **ICLR 2025** [[Paper](https://openreview.net/pdf?id=9OMvtboTJg)] [[Code](https://github.com/antgroup/LLMOPT)]
 
-</details>
-
-<details open>
-<summary><h3>📅 2024 ▾</h3></summary>
+### 📅 2024
 
 1. Liu, Fei, et al. Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model. **ICML 2024** [[Paper](https://arxiv.org/abs/2401.02051)] [[Code](https://github.com/FeiLiu36/EoH)]
 2. Romera-Paredes, Bernardino, et al. Mathematical Discoveries from Program Search with Large Language Models. **Nature 2024** [[Paper](https://www.nature.com/articles/s41586-023-06924-6)] [[Code](https://github.com/google-deepmind/funsearch)]
 3. Zhang, Rui, et al. Understanding the Importance of Evolutionary Search in Automated Heuristic Design with Large Language Models. **PPSN 2024** [[Paper](https://arxiv.org/abs/2407.10873)] [[Code](https://github.com/zhichao-lu/llm-eps)]
 4. Ye, Haoran, et al. ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution. **NeurIPS 2024** [[Paper](https://arxiv.org/abs/2402.01145)] [[Code](https://github.com/ai4co/reevo)]
 
-</details>
-
 ## 🔬 Agent for PINN Design
 
-<details open>
-<summary><h3>📅 2026 ▾</h3></summary>
+### 📅 2026
 
 1. Toscano, Juan Diego, et al. GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms. **arXiv 2026** [[Paper](https://arxiv.org/abs/2605.11117)]
 2. Jiang, Qile, et al. AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning. **npj Artificial Intelligence 2026** [[Paper](https://arxiv.org/abs/2511.07262)] [[Code](https://github.com/Qile-J/AgenticSciML)]
-
-</details>
 
 ## 📚 Related Resources
 
