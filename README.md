@@ -1,4 +1,4 @@
-# 🤖 Agent4SD: Agent for Scientific Discovery
+# Agent4SD: Agent for Scientific Discovery
 
 A curated list of research papers on using Large Language Models/Agents for autonomous scientific discovery, covering automated algorithm design and physics-informed neural network (PINN) design.
 
