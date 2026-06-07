@@ -43,6 +43,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 ### 📅 2026
 
 1. Toscano, Juan Diego, et al. GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms. **arXiv 2026** [[Paper](https://arxiv.org/abs/2605.11117)]
+2. Jiang, Qile, et al. AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning. **npj Artificial Intelligence 2026** [[Paper](https://arxiv.org/abs/2511.07262)] [[Code](https://github.com/Qile-J/AgenticSciML)]
 
 ## 📚 Related Resources
 
