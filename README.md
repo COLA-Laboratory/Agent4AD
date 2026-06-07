@@ -17,6 +17,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 9. Xu, Zhenxing, et al. AutoEP: LLMs-Driven Automation of Hyperparameter Evolution for Metaheuristic Algorithms. **ICLR 2026** `Oral` [[Paper](https://openreview.net/pdf?id=hit3hGBheP)] [[Code](https://github.com/YiZheZhang12/AutoEP?utm_source=chatgpt.com)]
 10. Zhao, Zhe, et al. Fusing LLMs with Scientific Literature for Heuristic Discovery. **ICLR 2026** `Rejected` [[Paper](https://openreview.net/forum?id=lwqeXDYKWJ)]
 11. Yang, S, et al. End-to-end Autonomous Scientific Discovery on a Real Optical Platform. **arXiv 2026** [[Paper](https://arxiv.org/abs/2604.27092)]
+12. Qu, Ao, et al. CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery. **arXiv 2026** [[Paper](https://arxiv.org/abs/2604.01658)] [[Code](https://github.com/Human-Agent-Society/CORAL)]
 
 ### 📅 2025
 
