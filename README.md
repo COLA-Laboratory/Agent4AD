@@ -5,7 +5,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 ## 🤖 Agent for Algorithm Design
 
 <details open>
-<summary><h3>📅 2026</h3></summary>
+<summary><h3>📅 2026 ▾</h3></summary>
 
 1. Liu, Fei, et al. A Systematic Survey on Large Language Models for Algorithm Design. **ACM Computing Surveys 2026** `Survey` [[Paper](https://arxiv.org/abs/2410.14716)] [[Code](https://github.com/FeiLiu36/LLM4AlgorithmDesign)]
 2. Liu, Fei, et al. EoH-S: Evolution of Heuristic Set Using LLMs for Automated Heuristic Design. **AAAI 2026** [[Paper](https://arxiv.org/abs/2508.03082)] [[Code](https://github.com/FeiLiu36/EoH-S)]
@@ -23,7 +23,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 </details>
 
 <details open>
-<summary><h3>📅 2025</h3></summary>
+<summary><h3>📅 2025 ▾</h3></summary>
 
 1. Yao, Shunyu, et al. Multi-Objective Evolution of Heuristic Using Large Language Model. **AAAI 2025** [[Paper](https://arxiv.org/abs/2409.16867)] [[Code](https://github.com/Optima-CityU/LLM4AD)]
 2. Zheng, Zhi, et al. Monte Carlo Tree Search for Comprehensive Exploration in LLM-based Automatic Heuristic Design. **ICML 2025** [[Paper](https://arxiv.org/abs/2501.08603)] [[Code](https://github.com/zz1358m/MCTS-AHD-master)]
@@ -39,7 +39,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 </details>
 
 <details open>
-<summary><h3>📅 2024</h3></summary>
+<summary><h3>📅 2024 ▾</h3></summary>
 
 1. Liu, Fei, et al. Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model. **ICML 2024** [[Paper](https://arxiv.org/abs/2401.02051)] [[Code](https://github.com/FeiLiu36/EoH)]
 2. Romera-Paredes, Bernardino, et al. Mathematical Discoveries from Program Search with Large Language Models. **Nature 2024** [[Paper](https://www.nature.com/articles/s41586-023-06924-6)] [[Code](https://github.com/google-deepmind/funsearch)]
@@ -51,7 +51,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 ## 🔬 Agent for PINN Design
 
 <details open>
-<summary><h3>📅 2026</h3></summary>
+<summary><h3>📅 2026 ▾</h3></summary>
 
 1. Toscano, Juan Diego, et al. GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms. **arXiv 2026** [[Paper](https://arxiv.org/abs/2605.11117)]
 2. Jiang, Qile, et al. AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning. **npj Artificial Intelligence 2026** [[Paper](https://arxiv.org/abs/2511.07262)] [[Code](https://github.com/Qile-J/AgenticSciML)]
