@@ -31,6 +31,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 8. Liu, Haoyang, et al. OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling. **NeurIPS 2025** [[Paper](https://arxiv.org/pdf/2510.22192)] [[Code](https://github.com/MIRALab-USTC/OptiTree?utm_source=chatgpt.com)]
 9. Chen, Yitian, et al. Solver-Informed Reinforcement Learning for Optimization Modeling. 2025 [[Paper](https://arxiv.org/pdf/2505.11792)] [[Code](https://github.com/Cardinal-Operations/SIRL?utm_source=chatgpt.com)]
 10. Jiang, Caigao, et al. LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch. **ICLR 2025** [[Paper](https://openreview.net/pdf?id=9OMvtboTJg)] [[Code](https://github.com/antgroup/LLMOPT)]
+11. Jiang, Zhengyao, et al. AIDE: AI-Driven Exploration in the Space of Code. **arXiv 2025** [[Paper](https://arxiv.org/abs/2502.13138)] [[Code](https://github.com/WecoAI/aideml)]
 
 ### 📅 2024
 
@@ -45,6 +46,10 @@ A curated list of research papers on using Large Language Models/Agents for auto
 
 1. Toscano, Juan Diego, et al. GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms. **arXiv 2026** [[Paper](https://arxiv.org/abs/2605.11117)]
 2. Jiang, Qile, et al. AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning. **npj Artificial Intelligence 2026** [[Paper](https://arxiv.org/abs/2511.07262)] [[Code](https://github.com/Qile-J/AgenticSciML)]
+
+### 📅 2025
+
+1. He, Xin, et al. Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework. **arXiv 2025** [[Paper](https://arxiv.org/abs/2510.05158)]
 
 ## 📚 Related Resources
 
