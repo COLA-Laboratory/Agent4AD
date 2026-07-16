@@ -18,6 +18,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 10. Zhao, Zhe, et al. Fusing LLMs with Scientific Literature for Heuristic Discovery. **ICLR 2026** `Rejected` [[Paper](https://openreview.net/forum?id=lwqeXDYKWJ)]
 11. Yang, S, et al. End-to-end Autonomous Scientific Discovery on a Real Optical Platform. **arXiv 2026** [[Paper](https://arxiv.org/abs/2604.27092)]
 12. Qu, Ao, et al. CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery. **arXiv 2026** [[Paper](https://arxiv.org/abs/2604.01658)] [[Code](https://github.com/Human-Agent-Society/CORAL)]
+13. Goldie, Alexander D., et al. DiscoGen: Procedural Generation of Algorithm Discovery Tasks in Machine Learning. **ICML 2026** [[Paper](https://arxiv.org/abs/2603.17863)] [[Code](https://github.com/AlexGoldie/discogen)]
 
 ### 📅 2025
 
