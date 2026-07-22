@@ -41,6 +41,12 @@ A curated list of research papers on using Large Language Models/Agents for auto
 3. Zhang, Rui, et al. Understanding the Importance of Evolutionary Search in Automated Heuristic Design with Large Language Models. **PPSN 2024** [[Paper](https://arxiv.org/abs/2407.10873)] [[Code](https://github.com/zhichao-lu/llm-eps)]
 4. Ye, Haoran, et al. ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution. **NeurIPS 2024** [[Paper](https://arxiv.org/abs/2402.01145)] [[Code](https://github.com/ai4co/reevo)]
 
+## 🧬 Self-Evolving Agents
+
+### 📅 2025
+
+1. Zhang, Jenny, et al. Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents. **arXiv 2025** [[Paper](https://arxiv.org/abs/2505.22954)] [[Code](https://github.com/jennyzzt/dgm)]
+
 ## 🔬 Agent for PINN Design
 
 ### 📅 2026
@@ -51,12 +57,6 @@ A curated list of research papers on using Large Language Models/Agents for auto
 ### 📅 2025
 
 1. He, Xin, et al. Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework. **arXiv 2025** [[Paper](https://arxiv.org/abs/2510.05158)]
-
-## 🧬 Self-Evolving Agents
-
-### 📅 2025
-
-1. Zhang, Jenny, et al. Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents. **arXiv 2025** [[Paper](https://arxiv.org/abs/2505.22954)] [[Code](https://github.com/jennyzzt/dgm)]
 
 ## 📚 Related Resources
 
