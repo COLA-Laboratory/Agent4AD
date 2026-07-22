@@ -1,6 +1,6 @@
 # Agent4SD: Agent for Scientific Discovery
 
-A curated list of research papers on using Large Language Models/Agents for autonomous scientific discovery, covering automated algorithm design and physics-informed neural network (PINN) design.
+A curated list of research papers on using Large Language Models/Agents for autonomous scientific discovery, covering automated algorithm design, physics-informed neural network (PINN) design, and self-evolving agents.
 
 ## 🤖 Agent for Algorithm Design
 
@@ -51,6 +51,12 @@ A curated list of research papers on using Large Language Models/Agents for auto
 ### 📅 2025
 
 1. He, Xin, et al. Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework. **arXiv 2025** [[Paper](https://arxiv.org/abs/2510.05158)]
+
+## 🧬 Self-Evolving Agents
+
+### 📅 2025
+
+1. Zhang, Jenny, et al. Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents. **arXiv 2025** [[Paper](https://arxiv.org/abs/2505.22954)] [[Code](https://github.com/jennyzzt/dgm)]
 
 ## 📚 Related Resources
 
