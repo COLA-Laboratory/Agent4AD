@@ -19,6 +19,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 11. Yang, S, et al. End-to-end Autonomous Scientific Discovery on a Real Optical Platform. **arXiv 2026** [[Paper](https://arxiv.org/abs/2604.27092)]
 12. Qu, Ao, et al. CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery. **arXiv 2026** [[Paper](https://arxiv.org/abs/2604.01658)] [[Code](https://github.com/Human-Agent-Society/CORAL)]
 13. Goldie, Alexander D., et al. DiscoGen: Procedural Generation of Algorithm Discovery Tasks in Machine Learning. **ICML 2026** [[Paper](https://arxiv.org/abs/2603.17863)] [[Code](https://github.com/AlexGoldie/discogen)]
+14. Aygün, Eser, et al. An AI System to Help Scientists Write Expert-Level Empirical Software (ERA). **Nature 2026** [[Paper](https://www.nature.com/articles/s41586-026-10658-6)] [[Code](https://github.com/google-research/era)]
 
 ### 📅 2025
 
