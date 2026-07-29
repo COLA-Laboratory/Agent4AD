@@ -58,6 +58,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 ### 📅 2025
 
 1. He, Xin, et al. Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework. **arXiv 2025** [[Paper](https://arxiv.org/abs/2510.05158)]
+2. Wuwu, Qingpo, et al. PINNsAgent: Automated PDE Surrogation with Large Language Models. **arXiv 2025** [[Paper](https://arxiv.org/abs/2501.12053)]
 
 ## 📚 Related Resources
 
