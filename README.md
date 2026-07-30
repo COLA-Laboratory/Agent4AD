@@ -61,6 +61,12 @@ A curated list of research papers on using Large Language Models/Agents for auto
 1. He, Xin, et al. Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework. **arXiv 2025** [[Paper](https://arxiv.org/abs/2510.05158)]
 2. Wuwu, Qingpo, et al. PINNsAgent: Automated PDE Surrogation with Large Language Models. **arXiv 2025** [[Paper](https://arxiv.org/abs/2501.12053)]
 
+## 🧪 Agent for Biomedical Research
+
+### 📅 2026
+
+1. Huang, Kexin, et al. Autonomous Biomedical Research with an Artificial Intelligence Agent. **Science 2026** [[Paper](https://www.science.org/doi/10.1126/science.adz4351)] [[Code](https://github.com/snap-stanford/Biomni)]
+
 ## 📚 Related Resources
 
 1. [LLM4CO](https://github.com/ai4co/awesome-fm4co) - A curated list of foundation models for combinatorial optimization.
