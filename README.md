@@ -4,68 +4,86 @@ A curated list of research papers on using Large Language Models/Agents for auto
 
 ## 🤖 Agent for Algorithm Design
 
-### 📅 2026
-
-1. Liu, Fei, et al. A Systematic Survey on Large Language Models for Algorithm Design. **ACM Computing Surveys 2026** `Survey` [[Paper](https://arxiv.org/abs/2410.14716)] [[Code](https://github.com/FeiLiu36/LLM4AlgorithmDesign)]
-2. Liu, Fei, et al. EoH-S: Evolution of Heuristic Set Using LLMs for Automated Heuristic Design. **AAAI 2026** [[Paper](https://arxiv.org/abs/2508.03082)] [[Code](https://github.com/FeiLiu36/EoH-S)]
-3. Hu, Qinglong, et al. Multimodal LLM-assisted Evolutionary Search for Programmatic Control Policies. **ICLR 2026** [[Paper](https://arxiv.org/abs/2508.05433)] [[Code](https://github.com/QingL2000/MLES)]
-4. Agrawal, Lakshya A., et al. GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning. **ICLR 2026** [[Paper](https://arxiv.org/abs/2507.19457)] [[Code](https://github.com/gepa-ai/gepa)]
-5. Liu, Shu, et al. EvoX: Meta-Evolution for Automated Discovery. **arXiv 2026** [[Paper](https://arxiv.org/abs/2602.23413)] [[Code](https://github.com/skydiscover-ai/skydiscover)]
-6. Cemri, Mert, et al. AdaEvolve: Adaptive LLM Driven Zeroth-Order Optimization. **arXiv 2026** [[Paper](https://arxiv.org/abs/2602.20133)] [[Code](https://github.com/skydiscover-ai/skydiscover)]
-7. Zhang, Rui, et al. Rethinking Code Similarity for Automated Algorithm Design with LLMs. **ICLR 2026** [[Paper](https://arxiv.org/pdf/2603.02787)] [[Code](https://github.com/RayZhhh/behavesim)]
-8. Li, Zun, et al. Discovering Multiagent Learning Algorithms with Large Language Models. **arXiv 2026** [[Paper](https://arxiv.org/abs/2602.16928)]
-9. Xu, Zhenxing, et al. AutoEP: LLMs-Driven Automation of Hyperparameter Evolution for Metaheuristic Algorithms. **ICLR 2026** `Oral` [[Paper](https://openreview.net/pdf?id=hit3hGBheP)] [[Code](https://github.com/YiZheZhang12/AutoEP?utm_source=chatgpt.com)]
-10. Zhao, Zhe, et al. Fusing LLMs with Scientific Literature for Heuristic Discovery. **ICLR 2026** `Rejected` [[Paper](https://openreview.net/forum?id=lwqeXDYKWJ)]
-11. Yang, S, et al. End-to-end Autonomous Scientific Discovery on a Real Optical Platform. **arXiv 2026** [[Paper](https://arxiv.org/abs/2604.27092)]
-12. Qu, Ao, et al. CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery. **arXiv 2026** [[Paper](https://arxiv.org/abs/2604.01658)] [[Code](https://github.com/Human-Agent-Society/CORAL)]
-13. Goldie, Alexander D., et al. DiscoGen: Procedural Generation of Algorithm Discovery Tasks in Machine Learning. **ICML 2026** [[Paper](https://arxiv.org/abs/2603.17863)] [[Code](https://github.com/AlexGoldie/discogen)]
-14. Aygün, Eser, et al. An AI System to Help Scientists Write Expert-Level Empirical Software (ERA). **Nature 2026** [[Paper](https://www.nature.com/articles/s41586-026-10658-6)] [[Code](https://github.com/google-research/era)]
-15. Li, Shanda, et al. CodePDE: An Inference Framework for LLM-driven PDE Solver Generation. **TMLR 2026** [[Paper](https://arxiv.org/abs/2505.08783)] [[Code](https://github.com/LithiumDA/CodePDE)]
-
-### 📅 2025
-
-1. Yao, Shunyu, et al. Multi-Objective Evolution of Heuristic Using Large Language Model. **AAAI 2025** [[Paper](https://arxiv.org/abs/2409.16867)] [[Code](https://github.com/Optima-CityU/LLM4AD)]
-2. Zheng, Zhi, et al. Monte Carlo Tree Search for Comprehensive Exploration in LLM-based Automatic Heuristic Design. **ICML 2025** [[Paper](https://arxiv.org/abs/2501.08603)] [[Code](https://github.com/zz1358m/MCTS-AHD-master)]
-3. Xie, Zhuoliang, et al. LLM-Driven Neighborhood Search for Efficient Heuristic Design. **CEC 2025** [[Paper](https://www.researchgate.net/profile/Fei-Liu-46/publication/392988386_LLM-Driven_Neighborhood_Search_for_Efficient_Heuristic_Design/links/68770ca3dd6b84447df8de4b/LLM-Driven-Neighborhood-Search-for-Efficient-Heuristic-Design.pdf)] [[Code](https://github.com/Acquent0/LHNS)]
-4. Hu, Qinglong, et al. Partition to Evolve: Niching-Enhanced Evolution with LLMs for Automated Algorithm Discovery. **NeurIPS 2025** [[Paper](https://openreview.net/pdf?id=OEawM2coNT)] [[Code](https://github.com/QingL2000/PartEvo)]
-5. Van Stein, Niki, et al. Llamea: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics. **TEVC 2025** [[Paper](https://arxiv.org/abs/2405.20132)] [[Code](https://github.com/XAI-liacs/LLaMEA)]
-6. Novikov, Alexander, et al. AlphaEvolve: A Coding Agent for Scientific and Algorithmic Discovery. **arXiv 2025** [[Paper](https://arxiv.org/abs/2506.13131)] [[Code](https://github.com/google-deepmind/alphaevolve_results)] [[Code](https://github.com/algorithmicsuperintelligence/openevolve)]
-7. Lange, Robert Tjarko, et al. ShinkaEvolve: Towards Open-Ended and Sample-Efficient Program Evolution. **arXiv 2025** [[Paper](https://arxiv.org/abs/2509.19349)] [[Code](https://github.com/SakanaAI/ShinkaEvolve)]
-8. Liu, Haoyang, et al. OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling. **NeurIPS 2025** [[Paper](https://arxiv.org/pdf/2510.22192)] [[Code](https://github.com/MIRALab-USTC/OptiTree?utm_source=chatgpt.com)]
-9. Chen, Yitian, et al. Solver-Informed Reinforcement Learning for Optimization Modeling. 2025 [[Paper](https://arxiv.org/pdf/2505.11792)] [[Code](https://github.com/Cardinal-Operations/SIRL?utm_source=chatgpt.com)]
-10. Jiang, Caigao, et al. LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch. **ICLR 2025** [[Paper](https://openreview.net/pdf?id=9OMvtboTJg)] [[Code](https://github.com/antgroup/LLMOPT)]
-11. Jiang, Zhengyao, et al. AIDE: AI-Driven Exploration in the Space of Code. **arXiv 2025** [[Paper](https://arxiv.org/abs/2502.13138)] [[Code](https://github.com/WecoAI/aideml)]
-
-### 📅 2024
-
-1. Liu, Fei, et al. Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model. **ICML 2024** [[Paper](https://arxiv.org/abs/2401.02051)] [[Code](https://github.com/FeiLiu36/EoH)]
-2. Romera-Paredes, Bernardino, et al. Mathematical Discoveries from Program Search with Large Language Models. **Nature 2024** [[Paper](https://www.nature.com/articles/s41586-023-06924-6)] [[Code](https://github.com/google-deepmind/funsearch)]
-3. Zhang, Rui, et al. Understanding the Importance of Evolutionary Search in Automated Heuristic Design with Large Language Models. **PPSN 2024** [[Paper](https://arxiv.org/abs/2407.10873)] [[Code](https://github.com/zhichao-lu/llm-eps)]
-4. Ye, Haoran, et al. ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution. **NeurIPS 2024** [[Paper](https://arxiv.org/abs/2402.01145)] [[Code](https://github.com/ai4co/reevo)]
+<table>
+<thead>
+<tr><th>#</th><th>Authors &amp; Title</th><th>Venue &amp; Year</th><th>Paper</th><th>Code</th></tr>
+</thead>
+<tbody>
+<tr><td colspan="5" align="center"><strong>📅 2026</strong></td></tr>
+<tr><td>1</td><td>Liu, Fei, et al. A Systematic Survey on Large Language Models for Algorithm Design.</td><td>ACM Computing Surveys 2026 <code>Survey</code></td><td><a href="https://arxiv.org/abs/2410.14716">Paper</a></td><td><a href="https://github.com/FeiLiu36/LLM4AlgorithmDesign">Code</a></td></tr>
+<tr><td>2</td><td>Liu, Fei, et al. EoH-S: Evolution of Heuristic Set Using LLMs for Automated Heuristic Design.</td><td>AAAI 2026</td><td><a href="https://arxiv.org/abs/2508.03082">Paper</a></td><td><a href="https://github.com/FeiLiu36/EoH-S">Code</a></td></tr>
+<tr><td>3</td><td>Hu, Qinglong, et al. Multimodal LLM-assisted Evolutionary Search for Programmatic Control Policies.</td><td>ICLR 2026</td><td><a href="https://arxiv.org/abs/2508.05433">Paper</a></td><td><a href="https://github.com/QingL2000/MLES">Code</a></td></tr>
+<tr><td>4</td><td>Agrawal, Lakshya A., et al. GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning.</td><td>ICLR 2026</td><td><a href="https://arxiv.org/abs/2507.19457">Paper</a></td><td><a href="https://github.com/gepa-ai/gepa">Code</a></td></tr>
+<tr><td>5</td><td>Liu, Shu, et al. EvoX: Meta-Evolution for Automated Discovery.</td><td>arXiv 2026</td><td><a href="https://arxiv.org/abs/2602.23413">Paper</a></td><td><a href="https://github.com/skydiscover-ai/skydiscover">Code</a></td></tr>
+<tr><td>6</td><td>Cemri, Mert, et al. AdaEvolve: Adaptive LLM Driven Zeroth-Order Optimization.</td><td>arXiv 2026</td><td><a href="https://arxiv.org/abs/2602.20133">Paper</a></td><td><a href="https://github.com/skydiscover-ai/skydiscover">Code</a></td></tr>
+<tr><td>7</td><td>Zhang, Rui, et al. Rethinking Code Similarity for Automated Algorithm Design with LLMs.</td><td>ICLR 2026</td><td><a href="https://arxiv.org/pdf/2603.02787">Paper</a></td><td><a href="https://github.com/RayZhhh/behavesim">Code</a></td></tr>
+<tr><td>8</td><td>Li, Zun, et al. Discovering Multiagent Learning Algorithms with Large Language Models.</td><td>arXiv 2026</td><td><a href="https://arxiv.org/abs/2602.16928">Paper</a></td><td>—</td></tr>
+<tr><td>9</td><td>Xu, Zhenxing, et al. AutoEP: LLMs-Driven Automation of Hyperparameter Evolution for Metaheuristic Algorithms.</td><td>ICLR 2026 <code>Oral</code></td><td><a href="https://openreview.net/pdf?id=hit3hGBheP">Paper</a></td><td><a href="https://github.com/YiZheZhang12/AutoEP?utm_source=chatgpt.com">Code</a></td></tr>
+<tr><td>10</td><td>Zhao, Zhe, et al. Fusing LLMs with Scientific Literature for Heuristic Discovery.</td><td>ICLR 2026 <code>Rejected</code></td><td><a href="https://openreview.net/forum?id=lwqeXDYKWJ">Paper</a></td><td>—</td></tr>
+<tr><td>11</td><td>Yang, S, et al. End-to-end Autonomous Scientific Discovery on a Real Optical Platform.</td><td>arXiv 2026</td><td><a href="https://arxiv.org/abs/2604.27092">Paper</a></td><td>—</td></tr>
+<tr><td>12</td><td>Qu, Ao, et al. CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery.</td><td>arXiv 2026</td><td><a href="https://arxiv.org/abs/2604.01658">Paper</a></td><td><a href="https://github.com/Human-Agent-Society/CORAL">Code</a></td></tr>
+<tr><td>13</td><td>Goldie, Alexander D., et al. DiscoGen: Procedural Generation of Algorithm Discovery Tasks in Machine Learning.</td><td>ICML 2026</td><td><a href="https://arxiv.org/abs/2603.17863">Paper</a></td><td><a href="https://github.com/AlexGoldie/discogen">Code</a></td></tr>
+<tr><td>14</td><td>Aygün, Eser, et al. An AI System to Help Scientists Write Expert-Level Empirical Software (ERA).</td><td>Nature 2026</td><td><a href="https://www.nature.com/articles/s41586-026-10658-6">Paper</a></td><td><a href="https://github.com/google-research/era">Code</a></td></tr>
+<tr><td>15</td><td>Li, Shanda, et al. CodePDE: An Inference Framework for LLM-driven PDE Solver Generation.</td><td>TMLR 2026</td><td><a href="https://arxiv.org/abs/2505.08783">Paper</a></td><td><a href="https://github.com/LithiumDA/CodePDE">Code</a></td></tr>
+<tr><td colspan="5" align="center"><strong>📅 2025</strong></td></tr>
+<tr><td>1</td><td>Yao, Shunyu, et al. Multi-Objective Evolution of Heuristic Using Large Language Model.</td><td>AAAI 2025</td><td><a href="https://arxiv.org/abs/2409.16867">Paper</a></td><td><a href="https://github.com/Optima-CityU/LLM4AD">Code</a></td></tr>
+<tr><td>2</td><td>Zheng, Zhi, et al. Monte Carlo Tree Search for Comprehensive Exploration in LLM-based Automatic Heuristic Design.</td><td>ICML 2025</td><td><a href="https://arxiv.org/abs/2501.08603">Paper</a></td><td><a href="https://github.com/zz1358m/MCTS-AHD-master">Code</a></td></tr>
+<tr><td>3</td><td>Xie, Zhuoliang, et al. LLM-Driven Neighborhood Search for Efficient Heuristic Design.</td><td>CEC 2025</td><td><a href="https://www.researchgate.net/profile/Fei-Liu-46/publication/392988386_LLM-Driven_Neighborhood_Search_for_Efficient_Heuristic_Design/links/68770ca3dd6b84447df8de4b/LLM-Driven-Neighborhood-Search-for-Efficient-Heuristic-Design.pdf">Paper</a></td><td><a href="https://github.com/Acquent0/LHNS">Code</a></td></tr>
+<tr><td>4</td><td>Hu, Qinglong, et al. Partition to Evolve: Niching-Enhanced Evolution with LLMs for Automated Algorithm Discovery.</td><td>NeurIPS 2025</td><td><a href="https://openreview.net/pdf?id=OEawM2coNT">Paper</a></td><td><a href="https://github.com/QingL2000/PartEvo">Code</a></td></tr>
+<tr><td>5</td><td>Van Stein, Niki, et al. Llamea: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics.</td><td>TEVC 2025</td><td><a href="https://arxiv.org/abs/2405.20132">Paper</a></td><td><a href="https://github.com/XAI-liacs/LLaMEA">Code</a></td></tr>
+<tr><td>6</td><td>Novikov, Alexander, et al. AlphaEvolve: A Coding Agent for Scientific and Algorithmic Discovery.</td><td>arXiv 2025</td><td><a href="https://arxiv.org/abs/2506.13131">Paper</a></td><td><a href="https://github.com/google-deepmind/alphaevolve_results">Code</a> <a href="https://github.com/algorithmicsuperintelligence/openevolve">Code</a></td></tr>
+<tr><td>7</td><td>Lange, Robert Tjarko, et al. ShinkaEvolve: Towards Open-Ended and Sample-Efficient Program Evolution.</td><td>arXiv 2025</td><td><a href="https://arxiv.org/abs/2509.19349">Paper</a></td><td><a href="https://github.com/SakanaAI/ShinkaEvolve">Code</a></td></tr>
+<tr><td>8</td><td>Liu, Haoyang, et al. OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling.</td><td>NeurIPS 2025</td><td><a href="https://arxiv.org/pdf/2510.22192">Paper</a></td><td><a href="https://github.com/MIRALab-USTC/OptiTree?utm_source=chatgpt.com">Code</a></td></tr>
+<tr><td>9</td><td>Chen, Yitian, et al. Solver-Informed Reinforcement Learning for Optimization Modeling.</td><td>2025</td><td><a href="https://arxiv.org/pdf/2505.11792">Paper</a></td><td><a href="https://github.com/Cardinal-Operations/SIRL?utm_source=chatgpt.com">Code</a></td></tr>
+<tr><td>10</td><td>Jiang, Caigao, et al. LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch.</td><td>ICLR 2025</td><td><a href="https://openreview.net/pdf?id=9OMvtboTJg">Paper</a></td><td><a href="https://github.com/antgroup/LLMOPT">Code</a></td></tr>
+<tr><td>11</td><td>Jiang, Zhengyao, et al. AIDE: AI-Driven Exploration in the Space of Code.</td><td>arXiv 2025</td><td><a href="https://arxiv.org/abs/2502.13138">Paper</a></td><td><a href="https://github.com/WecoAI/aideml">Code</a></td></tr>
+<tr><td colspan="5" align="center"><strong>📅 2024</strong></td></tr>
+<tr><td>1</td><td>Liu, Fei, et al. Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model.</td><td>ICML 2024</td><td><a href="https://arxiv.org/abs/2401.02051">Paper</a></td><td><a href="https://github.com/FeiLiu36/EoH">Code</a></td></tr>
+<tr><td>2</td><td>Romera-Paredes, Bernardino, et al. Mathematical Discoveries from Program Search with Large Language Models.</td><td>Nature 2024</td><td><a href="https://www.nature.com/articles/s41586-023-06924-6">Paper</a></td><td><a href="https://github.com/google-deepmind/funsearch">Code</a></td></tr>
+<tr><td>3</td><td>Zhang, Rui, et al. Understanding the Importance of Evolutionary Search in Automated Heuristic Design with Large Language Models.</td><td>PPSN 2024</td><td><a href="https://arxiv.org/abs/2407.10873">Paper</a></td><td><a href="https://github.com/zhichao-lu/llm-eps">Code</a></td></tr>
+<tr><td>4</td><td>Ye, Haoran, et al. ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution.</td><td>NeurIPS 2024</td><td><a href="https://arxiv.org/abs/2402.01145">Paper</a></td><td><a href="https://github.com/ai4co/reevo">Code</a></td></tr>
+</tbody>
+</table>
 
 ## 🧬 Self-Evolving Agents
 
-### 📅 2025
-
-1. Zhang, Jenny, et al. Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents. **arXiv 2025** [[Paper](https://arxiv.org/abs/2505.22954)] [[Code](https://github.com/jennyzzt/dgm)]
+<table>
+<thead>
+<tr><th>#</th><th>Authors &amp; Title</th><th>Venue &amp; Year</th><th>Paper</th><th>Code</th></tr>
+</thead>
+<tbody>
+<tr><td colspan="5" align="center"><strong>📅 2025</strong></td></tr>
+<tr><td>1</td><td>Zhang, Jenny, et al. Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents.</td><td>arXiv 2025</td><td><a href="https://arxiv.org/abs/2505.22954">Paper</a></td><td><a href="https://github.com/jennyzzt/dgm">Code</a></td></tr>
+</tbody>
+</table>
 
 ## 🔬 Agent for PINN Design
 
-### 📅 2026
-
-1. Toscano, Juan Diego, et al. GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms. **arXiv 2026** [[Paper](https://arxiv.org/abs/2605.11117)]
-2. Jiang, Qile, et al. AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning. **npj Artificial Intelligence 2026** [[Paper](https://arxiv.org/abs/2511.07262)] [[Code](https://github.com/Qile-J/AgenticSciML)]
-
-### 📅 2025
-
-1. He, Xin, et al. Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework. **arXiv 2025** [[Paper](https://arxiv.org/abs/2510.05158)]
-2. Wuwu, Qingpo, et al. PINNsAgent: Automated PDE Surrogation with Large Language Models. **arXiv 2025** [[Paper](https://arxiv.org/abs/2501.12053)]
+<table>
+<thead>
+<tr><th>#</th><th>Authors &amp; Title</th><th>Venue &amp; Year</th><th>Paper</th><th>Code</th></tr>
+</thead>
+<tbody>
+<tr><td colspan="5" align="center"><strong>📅 2026</strong></td></tr>
+<tr><td>1</td><td>Toscano, Juan Diego, et al. GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms.</td><td>arXiv 2026</td><td><a href="https://arxiv.org/abs/2605.11117">Paper</a></td><td>—</td></tr>
+<tr><td>2</td><td>Jiang, Qile, et al. AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning.</td><td>npj Artificial Intelligence 2026</td><td><a href="https://arxiv.org/abs/2511.07262">Paper</a></td><td><a href="https://github.com/Qile-J/AgenticSciML">Code</a></td></tr>
+<tr><td colspan="5" align="center"><strong>📅 2025</strong></td></tr>
+<tr><td>1</td><td>He, Xin, et al. Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework.</td><td>arXiv 2025</td><td><a href="https://arxiv.org/abs/2510.05158">Paper</a></td><td>—</td></tr>
+<tr><td>2</td><td>Wuwu, Qingpo, et al. PINNsAgent: Automated PDE Surrogation with Large Language Models.</td><td>arXiv 2025</td><td><a href="https://arxiv.org/abs/2501.12053">Paper</a></td><td>—</td></tr>
+</tbody>
+</table>
 
 ## 🧪 Agent for Biomedical Research
 
-### 📅 2026
-
-1. Huang, Kexin, et al. Autonomous Biomedical Research with an Artificial Intelligence Agent. **Science 2026** [[Paper](https://www.science.org/doi/10.1126/science.adz4351)] [[Code](https://github.com/snap-stanford/Biomni)]
+<table>
+<thead>
+<tr><th>#</th><th>Authors &amp; Title</th><th>Venue &amp; Year</th><th>Paper</th><th>Code</th></tr>
+</thead>
+<tbody>
+<tr><td colspan="5" align="center"><strong>📅 2026</strong></td></tr>
+<tr><td>1</td><td>Huang, Kexin, et al. Autonomous Biomedical Research with an Artificial Intelligence Agent.</td><td>Science 2026</td><td><a href="https://www.science.org/doi/10.1126/science.adz4351">Paper</a></td><td><a href="https://github.com/snap-stanford/Biomni">Code</a></td></tr>
+</tbody>
+</table>
 
 ## 📚 Related Resources
 
