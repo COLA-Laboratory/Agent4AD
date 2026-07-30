@@ -6,7 +6,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 
 <table>
 <thead>
-<tr><th>#</th><th>Authors &amp; Title</th><th>Venue &amp; Year</th><th>Paper</th><th>Code</th></tr>
+<tr><th width="4%">#</th><th width="52%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="15%">Code</th></tr>
 </thead>
 <tbody>
 <tr><td colspan="5" align="center"><strong>📅 2026</strong></td></tr>
@@ -49,7 +49,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 
 <table>
 <thead>
-<tr><th>#</th><th>Authors &amp; Title</th><th>Venue &amp; Year</th><th>Paper</th><th>Code</th></tr>
+<tr><th width="4%">#</th><th width="52%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="15%">Code</th></tr>
 </thead>
 <tbody>
 <tr><td colspan="5" align="center"><strong>📅 2025</strong></td></tr>
@@ -61,7 +61,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 
 <table>
 <thead>
-<tr><th>#</th><th>Authors &amp; Title</th><th>Venue &amp; Year</th><th>Paper</th><th>Code</th></tr>
+<tr><th width="4%">#</th><th width="52%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="15%">Code</th></tr>
 </thead>
 <tbody>
 <tr><td colspan="5" align="center"><strong>📅 2026</strong></td></tr>
@@ -77,7 +77,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 
 <table>
 <thead>
-<tr><th>#</th><th>Authors &amp; Title</th><th>Venue &amp; Year</th><th>Paper</th><th>Code</th></tr>
+<tr><th width="4%">#</th><th width="52%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="15%">Code</th></tr>
 </thead>
 <tbody>
 <tr><td colspan="5" align="center"><strong>📅 2026</strong></td></tr>
