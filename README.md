@@ -1,12 +1,12 @@
 # Agent4SD: Agent for Scientific Discovery
 
-A curated list of research papers on using Large Language Models/Agents for autonomous scientific discovery, covering automated algorithm design, physics-informed neural network (PINN) design, and self-evolving agents.
+A curated list of research papers on using Large Language Models/Agents for autonomous scientific discovery, covering automated algorithm design, self-evolving agents, biomedical research, and physics-informed neural network (PINN) design.
 
 ## 🤖 Agent for Algorithm Design
 
 <table>
 <thead>
-<tr><th width="4%">#</th><th width="52%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="15%">Code</th></tr>
+<tr><th width="4%">#</th><th width="57%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="10%">Code</th></tr>
 </thead>
 <tbody>
 <tr><td colspan="5" align="center"><strong>📅 2026</strong></td></tr>
@@ -31,7 +31,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 <tr><td>3</td><td>Xie, Zhuoliang, et al. LLM-Driven Neighborhood Search for Efficient Heuristic Design.</td><td>CEC 2025</td><td><a href="https://www.researchgate.net/profile/Fei-Liu-46/publication/392988386_LLM-Driven_Neighborhood_Search_for_Efficient_Heuristic_Design/links/68770ca3dd6b84447df8de4b/LLM-Driven-Neighborhood-Search-for-Efficient-Heuristic-Design.pdf">Paper</a></td><td><a href="https://github.com/Acquent0/LHNS">Code</a></td></tr>
 <tr><td>4</td><td>Hu, Qinglong, et al. Partition to Evolve: Niching-Enhanced Evolution with LLMs for Automated Algorithm Discovery.</td><td>NeurIPS 2025</td><td><a href="https://openreview.net/pdf?id=OEawM2coNT">Paper</a></td><td><a href="https://github.com/QingL2000/PartEvo">Code</a></td></tr>
 <tr><td>5</td><td>Van Stein, Niki, et al. Llamea: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics.</td><td>TEVC 2025</td><td><a href="https://arxiv.org/abs/2405.20132">Paper</a></td><td><a href="https://github.com/XAI-liacs/LLaMEA">Code</a></td></tr>
-<tr><td>6</td><td>Novikov, Alexander, et al. AlphaEvolve: A Coding Agent for Scientific and Algorithmic Discovery.</td><td>arXiv 2025</td><td><a href="https://arxiv.org/abs/2506.13131">Paper</a></td><td><a href="https://github.com/google-deepmind/alphaevolve_results">Code</a> <a href="https://github.com/algorithmicsuperintelligence/openevolve">Code</a></td></tr>
+<tr><td>6</td><td>Novikov, Alexander, et al. AlphaEvolve: A Coding Agent for Scientific and Algorithmic Discovery.</td><td>arXiv 2025</td><td><a href="https://arxiv.org/abs/2506.13131">Paper</a></td><td><a href="https://github.com/google-deepmind/alphaevolve_results">Code</a></td></tr>
 <tr><td>7</td><td>Lange, Robert Tjarko, et al. ShinkaEvolve: Towards Open-Ended and Sample-Efficient Program Evolution.</td><td>arXiv 2025</td><td><a href="https://arxiv.org/abs/2509.19349">Paper</a></td><td><a href="https://github.com/SakanaAI/ShinkaEvolve">Code</a></td></tr>
 <tr><td>8</td><td>Liu, Haoyang, et al. OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling.</td><td>NeurIPS 2025</td><td><a href="https://arxiv.org/pdf/2510.22192">Paper</a></td><td><a href="https://github.com/MIRALab-USTC/OptiTree?utm_source=chatgpt.com">Code</a></td></tr>
 <tr><td>9</td><td>Chen, Yitian, et al. Solver-Informed Reinforcement Learning for Optimization Modeling.</td><td>2025</td><td><a href="https://arxiv.org/pdf/2505.11792">Paper</a></td><td><a href="https://github.com/Cardinal-Operations/SIRL?utm_source=chatgpt.com">Code</a></td></tr>
@@ -49,7 +49,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 
 <table>
 <thead>
-<tr><th width="4%">#</th><th width="52%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="15%">Code</th></tr>
+<tr><th width="4%">#</th><th width="57%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="10%">Code</th></tr>
 </thead>
 <tbody>
 <tr><td colspan="5" align="center"><strong>📅 2025</strong></td></tr>
@@ -61,7 +61,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 
 <table>
 <thead>
-<tr><th width="4%">#</th><th width="52%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="15%">Code</th></tr>
+<tr><th width="4%">#</th><th width="57%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="10%">Code</th></tr>
 </thead>
 <tbody>
 <tr><td colspan="5" align="center"><strong>📅 2026</strong></td></tr>
@@ -73,7 +73,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 
 <table>
 <thead>
-<tr><th width="4%">#</th><th width="52%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="15%">Code</th></tr>
+<tr><th width="4%">#</th><th width="57%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="10%">Code</th></tr>
 </thead>
 <tbody>
 <tr><td colspan="5" align="center"><strong>📅 2026</strong></td></tr>
