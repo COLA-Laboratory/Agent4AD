@@ -45,7 +45,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 </tbody>
 </table>
 
-## 🧬 Self-Evolving Agents
+## 🌱 Self-Evolving Agents
 
 <table>
 <thead>
@@ -57,7 +57,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 </tbody>
 </table>
 
-## 🔬 Agent for PINN Design
+## ⚛️ Agent for PINN Design
 
 <table>
 <thead>
@@ -73,7 +73,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 </tbody>
 </table>
 
-## 🧪 Agent for Biomedical Research
+## 🧬 Agent for Biomedical Research
 
 <table>
 <thead>
