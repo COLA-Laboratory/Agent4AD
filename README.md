@@ -57,6 +57,18 @@ A curated list of research papers on using Large Language Models/Agents for auto
 </tbody>
 </table>
 
+## 🧬 Agent for Biomedical Research
+
+<table>
+<thead>
+<tr><th width="4%">#</th><th width="52%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="15%">Code</th></tr>
+</thead>
+<tbody>
+<tr><td colspan="5" align="center"><strong>📅 2026</strong></td></tr>
+<tr><td>1</td><td>Huang, Kexin, et al. Autonomous Biomedical Research with an Artificial Intelligence Agent.</td><td>Science 2026</td><td><a href="https://www.science.org/doi/10.1126/science.adz4351">Paper</a></td><td><a href="https://github.com/snap-stanford/Biomni">Code</a></td></tr>
+</tbody>
+</table>
+
 ## ⚛️ Agent for PINN Design
 
 <table>
@@ -70,18 +82,6 @@ A curated list of research papers on using Large Language Models/Agents for auto
 <tr><td colspan="5" align="center"><strong>📅 2025</strong></td></tr>
 <tr><td>1</td><td>He, Xin, et al. Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework.</td><td>arXiv 2025</td><td><a href="https://arxiv.org/abs/2510.05158">Paper</a></td><td>—</td></tr>
 <tr><td>2</td><td>Wuwu, Qingpo, et al. PINNsAgent: Automated PDE Surrogation with Large Language Models.</td><td>arXiv 2025</td><td><a href="https://arxiv.org/abs/2501.12053">Paper</a></td><td>—</td></tr>
-</tbody>
-</table>
-
-## 🧬 Agent for Biomedical Research
-
-<table>
-<thead>
-<tr><th width="4%">#</th><th width="52%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="15%">Code</th></tr>
-</thead>
-<tbody>
-<tr><td colspan="5" align="center"><strong>📅 2026</strong></td></tr>
-<tr><td>1</td><td>Huang, Kexin, et al. Autonomous Biomedical Research with an Artificial Intelligence Agent.</td><td>Science 2026</td><td><a href="https://www.science.org/doi/10.1126/science.adz4351">Paper</a></td><td><a href="https://github.com/snap-stanford/Biomni">Code</a></td></tr>
 </tbody>
 </table>
 
