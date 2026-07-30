@@ -80,8 +80,8 @@ A curated list of research papers on using Large Language Models/Agents for auto
 <tr><td>1</td><td>Toscano, Juan Diego, et al. GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms.</td><td>arXiv 2026</td><td><a href="https://arxiv.org/abs/2605.11117">Paper</a></td><td>—</td></tr>
 <tr><td>2</td><td>Jiang, Qile, et al. AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning.</td><td>npj Artificial Intelligence 2026</td><td><a href="https://arxiv.org/abs/2511.07262">Paper</a></td><td><a href="https://github.com/Qile-J/AgenticSciML">Code</a></td></tr>
 <tr><td colspan="5" align="center"><strong>📅 2025</strong></td></tr>
-<tr><td>1</td><td>He, Xin, et al. Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework.</td><td>arXiv 2025</td><td><a href="https://arxiv.org/abs/2510.05158">Paper</a></td><td>—</td></tr>
-<tr><td>2</td><td>Wuwu, Qingpo, et al. PINNsAgent: Automated PDE Surrogation with Large Language Models.</td><td>arXiv 2025</td><td><a href="https://arxiv.org/abs/2501.12053">Paper</a></td><td>—</td></tr>
+<tr><td>1</td><td>He, Xin, et al. Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework.</td><td>arXiv 2025</td><td><a href="https://arxiv.org/abs/2510.05158">Paper</a></td><td><a href="https://github.com/poochat/LANG-PINN">Code</a></td></tr>
+<tr><td>2</td><td>Wuwu, Qingpo, et al. PINNsAgent: Automated PDE Surrogation with Large Language Models.</td><td>ICML 2025</td><td><a href="https://arxiv.org/abs/2501.12053">Paper</a></td><td><a href="https://github.com/qingpowuwu/PINNsAgent_Codes">Code</a></td></tr>
 </tbody>
 </table>
 
