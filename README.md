@@ -52,6 +52,8 @@ A curated list of research papers on using Large Language Models/Agents for auto
 <tr><th width="4%">#</th><th width="57%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="10%">Code</th></tr>
 </thead>
 <tbody>
+<tr><td colspan="5" align="center"><strong>📅 2026</strong></td></tr>
+<tr><td>1</td><td>Wang, Xuefei Julie, et al. Knowledge-Centric Self-Improvement.</td><td>arXiv 2026</td><td><a href="https://arxiv.org/abs/2607.19592">Paper</a></td><td>—</td></tr>
 <tr><td colspan="5" align="center"><strong>📅 2025</strong></td></tr>
 <tr><td>1</td><td>Zhang, Jenny, et al. Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents.</td><td>arXiv 2025</td><td><a href="https://arxiv.org/abs/2505.22954">Paper</a></td><td><a href="https://github.com/jennyzzt/dgm">Code</a></td></tr>
 </tbody>
