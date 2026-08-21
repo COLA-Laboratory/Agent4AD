@@ -88,6 +88,18 @@ A curated list of research papers on using Large Language Models/Agents for auto
 </tbody>
 </table>
 
+## 🔬 Agent System Study
+
+<table>
+<thead>
+<tr><th width="4%">#</th><th width="57%">Authors &amp; Title</th><th width="19%">Venue &amp; Year</th><th width="10%">Paper</th><th width="10%">Code</th></tr>
+</thead>
+<tbody>
+<tr><td colspan="5" align="center"><strong>📅 2026</strong></td></tr>
+<tr><td>1</td><td>Kim, Yubin, et al. Capable Language Models Can Outgrow the Benefits of Collaboration.</td><td>Nature Machine Intelligence 2026</td><td><a href="https://www.nature.com/articles/s42256-026-01268-y">Paper</a></td><td><a href="https://github.com/ybkim95/agent-scaling">Code</a></td></tr>
+</tbody>
+</table>
+
 ## 📚 Related Resources
 
 1. [LLM4CO](https://github.com/ai4co/awesome-fm4co) - A curated list of foundation models for combinatorial optimization.
